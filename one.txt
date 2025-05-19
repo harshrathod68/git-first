@@ -1,2 +1,4 @@
 this is first file
 add another file to the folder and commit it .
+add my personal information in the file my own things 
+the only focus on one thing not the other thing your is only one focus that 
